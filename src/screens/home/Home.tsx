@@ -63,7 +63,7 @@ export const Home = () => {
         <img
           className="h-[300px] w-[215px] md:h-[400px] md:w-[286px] xl:h-[650px] xl:w-[500px] object-contain"
           loading="lazy"
-          src="/src/assets/images/my.png"
+          src="/assets/images/my.png"
           alt="myPhoto"
         />
       </div>

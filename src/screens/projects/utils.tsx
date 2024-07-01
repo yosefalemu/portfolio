@@ -4,11 +4,11 @@ import {SiGraphql, SiMui, SiNextdotjs, SiPayloadcms, SiRedux, SiTrpc} from 'reac
 
 import {SiMongodb, SiTypescript} from 'react-icons/si';
 
-import federal from 'assets/images/federal.png';
-import mint from 'assets/images/mint.png';
-import weatherAppLofo from 'assets/images/weather-app.png';
-import carrent from 'assets/images/carrent.png';
-import admin from "assets/images/admin.png"
+import federal from '/assets/images/federal.png';
+import mint from '/assets/images/mint.png';
+import weatherAppLofo from '/assets/images/weather-app.png';
+import carrent from '/assets/images/carrent.png';
+import admin from "/assets/images/admin.png"
 
 export interface Project {
   name: string;
