@@ -1,6 +1,6 @@
 import {BiLogoPostgresql} from 'react-icons/bi';
 import {FaGoogle, FaNodeJs, FaReact} from 'react-icons/fa';
-import {SiGraphql, SiMui, SiNextdotjs, SiPayloadcms, SiRedux, SiStripe, SiTailwindcss, SiTrpc} from 'react-icons/si';
+import {SiGraphql, SiMui, SiNextdotjs, SiPayloadcms, SiRedux, SiTrpc} from 'react-icons/si';
 
 import {SiMongodb, SiTypescript} from 'react-icons/si';
 

@@ -14,13 +14,6 @@ This repository contains code for Portfolio website created using React.
 
 Check live demonstration <a href="https://portfolio.enikosoft.com/"><strong>here</strong></a>
 
-
-## Images of The Portfolio Website:
-![React Portfolio Website](https://github.com/enikosoft/portfolio/blob/main/images/Screen1.png)
-![React Portfolio Website](https://github.com/enikosoft/portfolio/blob/main/images/Screen2.png)
-![React Portfolio Website](https://github.com/enikosoft/portfolio/blob/main/images/Mob1.png)
-![React Portfolio Website](https://github.com/enikosoft/portfolio/blob/main/images/Mob2.png)
-
 ## Sections :bookmark:
 
 - Home Page
@@ -28,13 +21,6 @@ Check live demonstration <a href="https://portfolio.enikosoft.com/"><strong>here
 - Skills
 - My Projects
 - Contact information
-
-## Run Locally
-Run this command 
-- ``git clone https://github.com/enikosoft/portfolio.git``
-- ``npm install``
-- ``npm run dev``
-<p>You are now in the dev environment and you can play around
 
 ## 🌱 Contribution
 If you have any suggestions on what to improve in Reactfolio and would like to share them, feel free to leave an issue or fork project to implement your own ideas
