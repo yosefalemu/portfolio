@@ -64,7 +64,7 @@ export const customProjects: Project[] = [
   {
     name: 'Car Rental App',
     url: 'https://car-rent-l2l28qcmd-yosef-alemus-projects.vercel.app/',
-    description: `React/Typescript/StyledComponent/zustand. You can find weather and current location time for any cities, searched by Google Place Api. Adaptive and responsive design. Weather data from https://www.visualcrossing.com`,
+    description: `React/StyledComponent/. Discover the perfect car for any journey with our easy-to-use car rental app! Choose from a wide range of vehicles, including compact cars, luxury sedans, and SUVs, all detailed with high-quality images and customer reviews. Our intuitive search and filter options, seamless booking process, and flexible rental periods make finding and reserving your ideal car a breeze. Enjoy transparent pricing, multiple pickup and drop-off locations, and 24/7 customer support. Available on desktop and mobile, our app ensures a smooth experience with exclusive promotions and discounts. Start your adventure with us today!`,
     img: carrent,
     stack: [
       <FaReact key="react" color="#5ED4F4" className="text-[28px]" />,
@@ -74,7 +74,7 @@ export const customProjects: Project[] = [
   {
     name: 'Admin dashboard',
     url: 'https://admin-dashboard-hepz.vercel.app/',
-    description: `React/Typescript/StyledComponent/zustand. You can find weather and current location time for any cities, searched by Google Place Api. Adaptive and responsive design. Weather data from https://www.visualcrossing.com`,
+    description: `React/Material UI. Efficiently manage and oversee your operations with our intuitive admin dashboard. Designed for ease of use, it offers comprehensive analytics, user management, and real-time updates to streamline your workflow and enhance productivity.`,
     img: admin,
     stack: [
       <FaReact key="react" color="#5ED4F4" className="text-[28px]" />,
